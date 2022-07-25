@@ -1,0 +1,4 @@
+Important Concepts:
+	Lifting the state up
+	Problem with Updating state using previous state (delay)
+	Why keys are important in React 	
